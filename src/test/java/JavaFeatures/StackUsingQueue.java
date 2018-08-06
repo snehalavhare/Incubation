@@ -1,4 +1,4 @@
-package Practice;
+package JavaFeatures;
 
 import java.util.LinkedList;
 import java.util.Queue;
