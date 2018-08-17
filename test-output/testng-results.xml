@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="51" started-at="2018-08-10T10:35:32Z" finished-at="2018-08-10T10:35:32Z">
+  <suite name="Default suite" duration-ms="6949" started-at="2018-08-16T05:11:34Z" finished-at="2018-08-16T05:11:41Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="51" started-at="2018-08-10T10:35:32Z" finished-at="2018-08-10T10:35:32Z">
+    <test name="Default test" duration-ms="6949" started-at="2018-08-16T05:11:34Z" finished-at="2018-08-16T05:11:41Z">
       <class name="ComparatorTest.ReverseUsingComparator">
-        <test-method status="PASS" signature="test()[pri:0, instance:ComparatorTest.ReverseUsingComparator@62ee68d8]" name="test" duration-ms="39" started-at="2018-08-10T16:05:32Z" finished-at="2018-08-10T16:05:32Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:ComparatorTest.ReverseUsingComparator@58651fd0]" name="test" duration-ms="6940" started-at="2018-08-16T10:41:34Z" finished-at="2018-08-16T10:41:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- ComparatorTest.ReverseUsingComparator -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
